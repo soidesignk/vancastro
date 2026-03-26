@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul,ol{
+    list-style: none;
+}
+
+.imgs{
+    margin: 0 auto;
+    width: 1000px;
+}
+.img{
+    width: 1000px;
+    height: auto;
+}
+.img img{
+    display: block;
+    width: 1000px;
+    height: auto;
+}
